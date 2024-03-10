@@ -3,10 +3,7 @@ A simple program for finding semiprimes, interesting semiprimes, and k-almost pr
 
 Compile: gcc -o kalmpr kalmpr.c
 
-1) Simple Run: 
-
+1) Simple Run:  
 ./kalmpr
-
-2) Timed Run (program is optimized to run as fast as possible):
-
+2) Timed Run (program is optimized to run as fast as possible):  
 time ./kalmpr

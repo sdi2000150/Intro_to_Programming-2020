@@ -1,7 +1,7 @@
 # Assignment3-Shop
 Finding the maximum amount spent on shopping variously priced products. Used three ways to achieve that: recursion, recursion with memory, iteration with dynamic programming. 
 
-Compile:\n
+Compile:  
 gcc -c -o shop.o shop.c
 
 gcc -c -o shoprec.o shoprec.c

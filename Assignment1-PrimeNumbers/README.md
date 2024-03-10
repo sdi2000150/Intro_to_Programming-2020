@@ -7,6 +7,6 @@ Compile: gcc -o kalmpr kalmpr.c
 
 ./kalmpr
 
-2) Timed Run (program is optimized to run as "fast" as possible):
+2) Timed Run (program is optimized to run as fast as possible):
 
 time ./kalmpr

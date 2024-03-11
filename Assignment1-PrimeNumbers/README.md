@@ -1,5 +1,7 @@
 # Assignment1-PrimeNumbers
-A simple program for finding semiprimes, interesting semiprimes, and k-almost prime numbers, inside an integer set. 
+A simple program for finding semiprimes, interesting semiprimes, and k-almost prime numbers, inside an integer set.  
+
+Assignment presentation is provided in the "iphw2021_1.pdf" (in greek).  
 
 Compile: gcc -o kalmpr kalmpr.c
 

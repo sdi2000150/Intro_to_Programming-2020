@@ -1,5 +1,7 @@
 # Assignment3-Shop
-Finding the maximum amount spent on shopping variously priced products. Used three ways to achieve that: recursive, recursive with memorization, iterative with dynamic programming.
+Finding the maximum amount spent on shopping variously priced products. Used three ways to achieve that: recursive, recursive with memorization, iterative with dynamic programming.  
+
+Assignment presentation is provided in the "iphw2021_3.pdf" (in greek).  
 
 Compile:  
 gcc -c -o shop.o shop.c  

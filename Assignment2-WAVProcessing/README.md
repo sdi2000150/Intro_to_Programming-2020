@@ -1,5 +1,7 @@
 # Assignment2-WAVProcessing
-Processing .wav files in low-level binary.
+Processing .wav files in low-level binary.  
+
+Assignment presentation is provided in the "iphw2021_2.pdf" (in greek).  
 
 Compile: gcc -o wavproc wavproc.c
 
